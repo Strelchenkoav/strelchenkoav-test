@@ -1,4 +1,4 @@
-created by Strelchenkoav
+created by Krampys
 $ git branch
 
 Список именованных веток коммитов с указанием выбранной ветки
